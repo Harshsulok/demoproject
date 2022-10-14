@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.three{
+    /* border: 2px solid blue; */
+}
+.nav-item{
+    font-size: 20px;
+    color: black;
+    padding: 0 20px 0 0;
+    text-decoration: none;
+}
+.card-body img{
+    width: 100%;
+    height: 100%;
+
+
+}
+#image{
+    width: 100%;
+}
+.card-body{
+    position: relative;
+}
+.centered{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#fluid{
+    /* border: 2px solid red; */
+}
+.fit{
+    /* border: 2px solid blue; */
+    height: 500px;
+}
+.grid{
+    /* border: 2px solid green; */
+    height: 300px;
+}
+.grid img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.shop{
+    height: 350px;
+} 
+.shop img{
+    width: 100%;
+    height: 75%;
+}
+.shop p{  
+    margin-bottom: 0rem;
+}
+.clock img{
+    height: 450px;
+    width: 100%;
+}
+.small{
+    height: 350px;
+    
+}
+.small img{
+  height: 100px;
+  width: 100%;
+}
+.caption{
+  
+  /* border: 2px solid green; */
+  display: inline-block;
+  
+
+}
+.picture{
+      /* border: 2px solid red; */
+      display: inline-block;
+      width: 100px;
+      display: inline-block;
+}
+.small{
+    height: 300px;
+    
+}
+.small p{
+    font-size: 20px;
+}
+.caption p{
+    font-size: 12px;
+}
+.thumbnail img{
+    height: 250px;
+}
+footer a{
+    text-decoration: none;
+}
